@@ -16,6 +16,6 @@
     "build": "rollup -c"
   },
   "dependencies": {
-    "@namespace/a": "workspace:*"
+    "@monorepo/a": "workspace:*"
   }
 }
